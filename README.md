@@ -23,6 +23,3 @@ This project analyzes bike purchase behavior using Excel to understand how custo
 
 ## Business Value
 This dashboard helps businesses identify customer segments most likely to purchase bikes and supports targeted sales and marketing strategies.
-
-## Project Files
-- Excel file containing data cleaning, pivot tables, and dashboard
