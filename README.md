@@ -2,35 +2,27 @@
 Tools Used: Microsoft Excel
 
 ## Project Overview
-This project analyzes bike purchase behavior using Excel to understand how income, age group, and commute distance affect purchasing decisions.
+This project analyzes bike purchase behavior using Excel to understand how customer demographics, income, age group, and commute distance influence bike purchases. The analysis supports identifying target customer segments.
 
----
+## What Was Done
+- Cleaned and standardized categorical data in Excel
+- Converted coded values (e.g., gender and marital status) into readable categories
+- Created age groups using IF conditions
+- Built pivot tables to summarize bike purchase patterns
+- Developed an interactive Excel dashboard using pivot charts and slicers
 
-## Data Preparation
-- Standardized categorical values (Gender, Marital Status)
-- Created Age Group using IF conditions
-- Prepared data for pivot analysis
-
----
-
-## Pivot Table Analysis
-Pivot tables were used to summarize bike purchase patterns.
-
-![Pivot Table](screenshots/excel/pivot_table.png)
-
----
-
-## Excel Dashboard
-An interactive Excel dashboard was created using pivot charts and slicers.
-
-![Excel Dashboard](screenshots/excel/dashboard.png)
-
----
+## Key Analysis Areas
+- Bike purchase behavior by age group
+- Relationship between income and bike purchases
+- Impact of commute distance on bike purchasing decisions
 
 ## Key Insights
-- Middle-aged customers purchase the most bikes
-- Higher income customers are more likely to buy bikes
-- Shorter commute distances correlate with higher bike purchases
+- Middle-aged customers are the highest bike-purchasing group
+- Customers with higher income are more likely to purchase bikes
+- Shorter commute distances are associated with higher bike purchase likelihood
 
 ## Business Value
-The dashboard helps identify key customer segments for targeted marketing and sales strategies.
+This dashboard helps businesses identify customer segments most likely to purchase bikes and supports targeted sales and marketing strategies.
+
+## Project Files
+- Excel file containing data cleaning, pivot tables, and dashboard
