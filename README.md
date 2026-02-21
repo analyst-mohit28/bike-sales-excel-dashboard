@@ -1,25 +1,59 @@
-# Bike Sales Analysis Dashboard
-Tools Used: Microsoft Excel
+# Bike Sales Analysis (Excel Dashboard)
 
-## Project Overview
-This project analyzes bike purchase behavior using Excel to understand how customer demographics, income, age group, and commute distance influence bike purchases. The analysis supports identifying target customer segments.
+## 📌 Project Overview
 
-## What Was Done
-- Cleaned and standardized categorical data in Excel
-- Converted coded values (e.g., gender and marital status) into readable categories
-- Created age groups using IF conditions
-- Built pivot tables to summarize bike purchase patterns
-- Developed an interactive Excel dashboard using pivot charts and slicers
+This project analyzes customer demographics and purchasing behavior to understand the factors influencing bike sales.
 
-## Key Analysis Areas
-- Bike purchase behavior by age group
-- Relationship between income and bike purchases
-- Impact of commute distance on bike purchasing decisions
+The objective is to identify key customer segments based on income, age, gender, and commute distance.
 
-## Key Insights
-- Middle-aged customers are the highest bike-purchasing group
-- Customers with higher income are more likely to purchase bikes
-- Shorter commute distances are associated with higher bike purchase likelihood
+---
 
-## Business Value
-This dashboard helps businesses identify customer segments most likely to purchase bikes and supports targeted sales and marketing strategies.
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+
+---
+
+## 📊 Business Questions Answered
+
+1. Which age group is most likely to purchase bikes?
+2. How does income level impact purchasing decisions?
+3. Does commute distance influence bike purchases?
+4. Are there gender-based purchasing patterns?
+
+---
+
+## 📈 Dashboard Preview
+
+(Add image below)
+
+![Bike Sales Dashboard](https://github.com/analyst-mohit28/bike-sales-excel-dashboard/blob/main/bike_dashboardd.png)
+
+---
+
+## 🔍 Key Insights
+
+- Customers with shorter commute distances (0–1 miles) are more likely to purchase bikes.
+- Middle-aged customers represent the highest purchasing segment.
+- Bike buyers generally have higher average income than non-buyers.
+- Male customers show higher average income and slightly higher purchase likelihood.
+
+---
+
+## 💡 Business Recommendations
+
+1. Target middle-aged, high-income customers through focused marketing.
+2. Promote bikes as a convenient solution for short-distance commuting.
+3. Design localized campaigns in areas with shorter commute ranges.
+4. Use income-based segmentation to optimize promotional strategies.
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates practical use of Excel for business analytics, including pivot table analysis, segmentation, and dashboard storytelling.
+
+It highlights how demographic and income factors influence purchasing behavior.
