@@ -28,8 +28,6 @@ The objective is to identify key customer segments based on income, age, gender,
 
 ## 📈 Dashboard Preview
 
-(Add image below)
-
 ![Bike Sales Dashboard](https://github.com/analyst-mohit28/bike-sales-excel-dashboard/blob/main/bike_dashboardd.png)
 
 ---
